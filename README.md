@@ -34,4 +34,7 @@ d.	matplotlib.patches como patches
 e.	matplotlib.path como path 
 
 Resultados : 
-![alt text](https://github.com/juanbarbosa219/Trabajo-final-/blob/master/contratos-por-provincia.png)
+![alt text](https://github.com/juanbarbosa219/Trabajo-final/blob/master/figura1.png)
+En la Figura 1 observamos el número de contratos por provincia.  Se observa mayor número de contratos en Sabana Centro y Sabana de Occidente. Se observa menor número de contratos en la provincia del Bajo Magdalena y Medina.  En la Figura 2 se muestra el análisis del monto de contratación por provincia, se observa  que a pesar de que la provincia de Sumapaz tiene un total de contratos de 4.311 y que Bogotá de 3.478 cuando nos referimos en términos del monto total de contratación, Bogotá tiene mayor participación que el Sumapaz.
+
+![alt text](https://github.com/juanbarbosa219/Trabajo-final/blob/master/Gasto total en contratación por provincia.png)

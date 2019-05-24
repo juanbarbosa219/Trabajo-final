@@ -41,5 +41,16 @@ En la Figura 1 observamos el número de contratos por provincia.  Se observa may
 
 En la Figura 3 se observa la distribución en términos de porcentajes del monto de contratación por provincia.  La información es consistente con la expresada en la figura 2.  El 25.9% del monto total contratado en Bogotá y Cundinamarca se encuentra en la provincia de Sabana Centro. Según los objetos contratados de mayor monto. Seguido de Bogotá con el 17.7%. Medina y el Bajo Magdalena son las provincias con menor participación.
 
+![alt text](https://github.com/juanbarbosa219/Trabajo-final/blob/master/Porcentaje%20de%20gasto%20por%20provincia.png)
 
+La tabla1 deja en evidencia el número de contratos realizados y el monto contratado por cada modalidad de contratación. Sobresale las modalidades de contratación denominadas Contratación Directa y Régimen Especial. En el código de Python se podrán observar una extensión de la tabla 1, en la cual se muestran 3 tablas con la información de contratación por provincia, modalidad de contratación y números de contratos. 
+
+![alt text](https://github.com/juanbarbosa219/Trabajo-final/blob/master/Tabla%20modalidad%20de%20contrataci%C3%B3n.png)
+
+Con base a la extensión de la Tabla 1, se realizan las figuras 4 y 5. La figura 4 muestra el número de contratos por cada modalidad de contratación para cada una de las provincias. Como era de esperarse, sobresale el color referente a la contratación directa para cada una de las provincias. El color referente al régimen especial también juega un papel importante. 
+
+![alt text](https://github.com/juanbarbosa219/Trabajo-final/blob/master/N%C3%BAmero%20de%20contratos%20por%20modalidad%20de%20contrataci%C3%B3n%20-%20PROVINCIA.png)
+La figura 5 muestra la distribución del monto contratado para cada modalidad de contratación por provincia. Es interesante el rol protagónico que toma la variable referente a la licitación pública para las provincias de Sabana Centro y Occidente. En Bogotá, el monto de la contratación directa es muy importante. 
+
+![alt text](https://github.com/juanbarbosa219/Trabajo-final/blob/master/Gasto%20en%20contrataci%C3%B3n%20por%20modalidad%20de%20contrataci%C3%B3n%20-%20Provincia.png)
 

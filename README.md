@@ -34,4 +34,4 @@ d.	matplotlib.patches como patches
 e.	matplotlib.path como path 
 
 Resultados : 
-
+![alt text](https://github.com/juanbarbosa219/Trabajo-final-/blob/master/contratos-por-provincia.png)
